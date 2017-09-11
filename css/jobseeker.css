@@ -1,0 +1,50 @@
+#insidenav{
+    background: dodgerblue;
+    color: white;
+    font-size: 13px;
+}
+nav a{
+    font-size: 16px;
+    font-family: ubuntu;
+    color: white;
+}
+nav ul li {
+    font-size: 16px;
+    font-family: ubuntu;
+}
+nav ul  li.active{
+    background: #428bca;
+}
+table.table{
+    background: transparent;
+}
+td.tbold{
+    font-weight: bold;
+    width: 200px;
+}
+table{
+    background: transparent;
+     font-size: 16px;
+}
+label{
+    width: inherit;
+    background: transparent;
+}
+div.jumbotron{
+    color: #2aabd2;
+}
+.thumbnail {
+    width: auto;
+    height: auto;
+    border: 3px;
+    border-radius: 5px;
+   background: transparent;
+
+}
+
+.thumbnail img {
+    display: block;
+    width: 200;
+    height: 200;
+    margin-bottom: 5px;
+}
