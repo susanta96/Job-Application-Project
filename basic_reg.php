@@ -131,7 +131,7 @@
 
 					}
 
-				if( name == "" &&email == '' && pass1 == '' && pass2 == '' ) {
+				if( name == "" && email == '' && pass1 == '' && pass2 == '' ) {
 					//document.getElementById("basic_reg").submit();
 						 return true;
 				}
