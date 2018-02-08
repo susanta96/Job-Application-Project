@@ -38,13 +38,13 @@ You need only [XAMPP](https://www.apachefriends.org/index.html) to run this proj
 ## Build With
 
 This is Web Development Project based on PHP. The Web Technology used are,
-    * PHP
-    * HTML
-    * CSS
-    * JavaScript
-    * Bootstrap
-    * JQuery
-    * MariaDB (or MySQL) (DataBase)
+   * PHP
+   * HTML
+   * CSS
+   * JavaScript
+   * Bootstrap
+   * JQuery
+   * MariaDB (or MySQL) (DataBase)
     
 ## Features
 
